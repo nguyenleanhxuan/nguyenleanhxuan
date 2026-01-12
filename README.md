@@ -9,9 +9,9 @@
 - ⚡ Fun fact: I love the beauty of **math and logic**, especially how they are present in everything around us.  
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, C++  
+- **Languages:** JavaScript, Python, C++, HTML, CSS  
 - **Library/Frameworks:** React  
-- **Databases:** MongoDB, MySQL, MSSQL  
+- **Databases:** MySQL, MSSQL  
 
  <!-- ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenleanhxuan&show_icons=true&theme=tokyonight)  
